@@ -27,6 +27,7 @@ Set up
 3. (Optional) Modify `With-RegularHoliday` in mrcal.ps1.
 
 使用前の準備作業：
+
 1. 全ファイルを適当なフォルダにコピーしておきます。
 2. mrcal\_cfg.ps1の中身を調整します。
     * 作成するカレンダーの西暦・開始月・期間と、休日と見なす日のテーブルを調整してください。
